@@ -36,4 +36,4 @@ fs.readFile('font.otf', function (err, data) {
 
 ## Copyright and License
 
-This library is licensed under the three-clause BSD license. Copyright 2013-2016 Bram Stein. All rights reserved.
+This library is licensed under the three-clause BSD license. Copyright 2013-2016 Bram Stein and 2018 Ivaylo Dankolov. All rights reserved.
